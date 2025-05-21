@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2%;
+    
+}
+
+.slick-slide > div{
+    margin: 0 10px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.x{
+    font-family: 'Times New Roman', Times, serif;
+}
