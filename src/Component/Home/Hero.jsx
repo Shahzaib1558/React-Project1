@@ -19,7 +19,7 @@ const Hero = () => {
               </div>
                {/* image section */}
           <div className='w-full md:w-2/4  mt-4'>
-            <img src="./ban3.jpg" alt="" />
+            <img src="/ban3.jpg" alt="" />
           </div>
           </div>
 

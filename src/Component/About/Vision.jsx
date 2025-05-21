@@ -5,7 +5,7 @@ const Vision = () => {
         <div className='flex flex-col justify-center md:flex-row items-center gap-5 mt-16 '>
             {/* Image Section */}
             <div className='w-full md:w-2/5'>
-                <img src="./visi.jpg" alt="" className='rounded-lg' />
+                <img src="/visi.jpg" alt="" className='rounded-lg' />
             </div>
 
             {/* Content Section  */}

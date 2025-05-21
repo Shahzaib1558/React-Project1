@@ -10,7 +10,7 @@ const OurMission = () => {
       <div className='flex flex-col justify-center md:flex-row items-center gap-5 mt-8'>
         {/* Image Section */}
         <div className='w-full md:w-2/4'>
-          <img src="./img2.jpg" alt="" className='rounded-lg' />
+          <img src="/img2.jpg" alt="" className='rounded-lg' />
         </div>
         {/* Content Section */}
         <div className='w-full md:w-2/4 space-y-4'>

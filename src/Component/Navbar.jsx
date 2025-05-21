@@ -23,7 +23,7 @@ const Navbar = () => {
       <nav className=' container flex justify-between items-center '>
         <div className='flex items-center gap-2' >
           {/* Company Logo */}
-          <img src="./img1.png" className='w-18 rounded-full px-1' alt="" />
+          <img src="/img1.png" className='w-18 rounded-full px-1' alt="" />
             <span  className='font-bold text-2xl '>KYISHELL</span>
         </div>
         <div className='hidden md:flex items-center gap-6 font-medium text-xl'>

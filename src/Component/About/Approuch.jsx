@@ -12,7 +12,7 @@ const Approuch = () => {
       </div>
       {/* image section */}
       <div className='w-full md:w-2/5'>
-        <img src="./cu.webp" alt="img" className='rounded-lg' />
+        <img src="/cu.webp" alt="img" className='rounded-lg' />
       </div>
     </div>
   )

@@ -9,35 +9,35 @@ const Feature = () => {
         {
             id: 0,
             name: "Mercedes-Benz",
-            image: "./img12.jpg",
+            image: "/img12.jpg",
             price: "100,000"
         },
         {
             id: 1,
             name: "BMW 3",
-            image: "./img14.jpg",
+            image: "/img14.jpg",
             price: "200,000"
         },
         {
             id: 2,
             name: "Royal Rose",
-            image: "./img3.jpg",
+            image: "/img3.jpg",
             price: "400,000"
         }, {
             id: 3,
             name: "Suzuki ",
-            image: "./img5.jpg",
+            image: "/img5.jpg",
             price: " 95,000"
         }, {
             id: 4,
             name: "Suzuki Benz",
-            image: "./img11.jpg",
+            image: "/img11.jpg",
             price: "150,000"
         },
         {
             id: 5,
             name: "Dodge Challenger",
-            image: "./img17.jpg",
+            image: "/img17.jpg",
             price: " 600,000"
         }
     ]
